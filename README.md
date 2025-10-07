@@ -151,7 +151,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Rodando o projeto 🚴🏻‍♂️
 #### "Só vou dar uma olhadinha...":
-  <a href="https://feedget-v1.vercel.app">💬 Site hospedado na Vercel 📋</a>
+  <a href="https://feedback-widget-antonio-s.vercel.app/">💬 Site hospedado na Vercel 📋</a>
 
 #### Na sua maquina:
 <details>
